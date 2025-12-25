@@ -20,19 +20,20 @@
 </h4>
 <br>
 <h2>Appendix</h2>
+<br>
 <h3>Figure 1</h3>
 <h4>Input Hours window, Navigation bar, and Calendar window.</h4>
-<img src = "https://github.com/Berardinux/HourTracker/img/image002.jpg">
-<img src = "https://github.com/Berardinux/HourTracker/img/image004.jpg">
-<img src = "https://github.com/Berardinux/HourTracker/img/image006.jpg">
-
+<img src = "https://github.com/Berardinux/HourTracker/blob/main/img/image002.jpg"
+<img src = "https://github.com/Berardinux/HourTracker/blob/main/img/image004.jpg">
+<img src = "https://github.com/Berardinux/HourTracker/blob/main/img/image006.jpg">
+<br><br>
 <h3>Figure 2</h3>
 <h4>Year to date, Search, and Settings Windows.</h4>
-<img src = "https://github.com/Berardinux/HourTracker/img/image008.jpg">
-<img src = "https://github.com/Berardinux/HourTracker/img/image010.jpg">
-<img src = "https://github.com/Berardinux/HourTracker/img/image012.jpg">
-
+<img src = "https://github.com/Berardinux/HourTracker/blob/main/img/image008.jpg">
+<img src = "https://github.com/Berardinux/HourTracker/blob/main/img/image010.jpg">
+<img src = "https://github.com/Berardinux/HourTracker/blob/main/img/image012.jpg">
+<br><br>
 <h3>Figure 3</h3>
 <h4>Import & Export and Help window.</h4>
-<img src = "https://github.com/Berardinux/HourTracker/img/image014.jpg">
-<img src = "https://github.com/Berardinux/HourTracker/img/image016.jpg">
+<img src = "https://github.com/Berardinux/HourTracker/blob/main/img/image014.jpg">
+<img src = "https://github.com/Berardinux/HourTracker/blob/main/img/image016.jpg">
