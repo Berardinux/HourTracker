@@ -4,17 +4,17 @@
     Activities and Features
     <br><br>
     1) MainActivity: Where the user will input the hours they worked. (Shown in figure 1)
-    <br>
+    <br><br>
     2) CalendarActivity: Displays earnings within a selected date range. (Shown in figure 1)
-    <br>
+    <br><br>
     3) YtdActivity: Displays earnings from January 1st of that year. (Shown in figure 2)
-    <br>
+    <br><br>
     4) SearchActivity: Allows the user to search entries and display what days they were entered. (Shown in figure 2)
-    <br>
+    <br><br>
     5) SettingsActivity: Where the user will input their rates. (Shown in figure 2)
-    <br>
+    <br><br>
     6) ImportExportActivity: Allows the user to import and export their entry data for moving or storage. (Shown in figure 3)
-    <br>
+    <br><br>
     7) HelpActivity: Where the UI is explained in more detail to help the user better understand their application. (Shown in figure 3)
     <br>
 </h4>
