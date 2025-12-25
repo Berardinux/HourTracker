@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_main"
+        android:title="Input Hours"
+        android:icon="@drawable/ic_main"
+        android:checkable="true" />
+
+    <item
+        android:id="@+id/menu_calendar"
+        android:title="Calendar"
+        android:icon="@drawable/ic_calendar"
+        android:checkable="true" />
+
+    <item
+        android:id="@+id/menu_ytd"
+        android:title="Year to date"
+        android:icon="@drawable/ic_ytd"
+        android:checkable="true" />
+
+    <item
+        android:id="@+id/menu_search"
+        android:title="Search"
+        android:icon="@drawable/ic_search"
+        android:checkable="true" />
+
+    <item
+        android:id="@+id/menu_settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"
+        android:checkable="true" />
+
+    <item
+        android:id="@+id/menu_ie"
+        android:title="Import and Export"
+        android:icon="@drawable/ic_ie"
+        android:checkable="true" />
+
+    <item
+        android:id="@+id/menu_help"
+        android:title="Help"
+        android:icon="@drawable/ic_help"
+        android:checkable="true" />
+
+</menu>

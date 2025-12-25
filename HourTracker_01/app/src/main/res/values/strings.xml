@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Hour Tracker</string>
+
+    <!-- Main Activity stuff -->
+    <string name="main_toolbar_title">Input Hours</string>
+    <string name="main_edittext_0_hint">yyyy-MM-dd</string>
+    <string name="main_edittext_1_hint">1.0X</string>
+    <string name="main_edittext_2_hint">1.5X</string>
+    <string name="main_edittext_3_hint">2.0X</string>
+    <string name="main_edittext_4_hint">2.5X</string>
+    <string name="main_edittext_5_hint">Breakfast</string>
+    <string name="main_edittext_6_hint">Lunch</string>
+    <string name="main_edittext_7_hint">Dinner</string>
+    <string name="main_edittext_8_hint">Vacation Hours</string>
+    <string name="main_edittext_9_hint">Rest Hours</string>
+    <string name="main_button_0_text">Add time</string>
+
+    <!-- Calendar Activity stuff -->
+    <string name="calendar_toolbar_title">Calendar</string>
+    <string name="calendar_textview_startdate_text">Start Date</string>
+    <string name="calendar_textview_enddate_text">End Date</string>
+    <string name="calendar_button_0_text">Calculate</string>
+
+    <!-- YTD Activity stuff -->
+    <string name="ytd_toolbar_title">Year to date</string>
+
+    <!-- Search Activity stuff -->
+    <string name="search_toolbar_title">Search</string>
+    <string name="search_edittext_0_hint">🔎 Search</string>
+
+    <!-- Settings Activity stuff -->
+    <string name="settings_toolbar_title">Settings</string>
+    <string name="settings_edittext_0_hint">Pay per hour / AKA Rate</string>
+    <string name="settings_edittext_1_hint">Pay per breakfast</string>
+    <string name="settings_edittext_2_hint">Pay per lunch</string>
+    <string name="settings_edittext_3_hint">Pay per dinner</string>
+    <string name="settings_button_0_text">Save Settings</string>
+
+    <!-- Import and Export stuff -->
+    <string name="ie_toolbar_title">Import and Export</string>
+    <string name="ie_textview_import_json_text_0">Import your entries (JSON)</string>
+    <string name="ie_textview_import_json_text_1">
+        When you click on the "Import (JSON)" button, you will be able to choose the (.json) entry file from your
+        phone directory. When you select the (.json) file, it will overwrite the application\'s current
+        entry file with the one you are importing.
+    </string>
+    <string name="ie_button_0_text">Import (JSON)</string>
+    <string name="ie_textview_export_json_text_0">Export your entries (JSON)</string>
+    <string name="ie_textview_export_json_text_1">
+        When you click the "Export (JSON)" button, your (.json) file containing all your entries will be dropped in
+        your downloads directory. With this file, you can import it onto a new phone or use it as a backup
+        of all your work hour entries.
+    </string>
+    <string name="ie_button_1_text">Export (JSON)</string>
+    <string name="ie_textview_export_csv_text_0">Export your entries (CSV)</string>
+    <string name="ie_textview_export_csv_text_1">
+        When you click the "Export (CSV)" button, your (.csv) file containing all your entries will be dropped in
+        your downloads directory. With this file, you can look at your at your entries in excel.
+    </string>
+    <string name="ie_button_2_text">Export (CSV)</string>
+
+
+
+    <!-- Help Activity stuff -->
+    <string name="help_toolbar_title">Help</string>
+    <string name="help_textview_setup_0_text">Setup:</string>
+    <string name="help_textview_setup_1_text">
+        To start using this application, open the settings window and enter your pay-per-hour and breakfast,
+        lunch, and dinner rates. This will allow the application to use these variables to calculate your
+        earnings per entry.
+    </string>
+    <string name="help_textview_input_0_text">Inputting Hours:</string>
+    <string name="help_textview_input_1_text">
+        To create a new entry, navigate to the ‘Input Hours’ window, which opens when the application first
+        starts. The date will be auto-populated with today’s date. If you would like to change it, make sure
+        that you enter the new date in the same format as the default. With that complete, enter in all the
+        values that apply to your workday and click the ‘Add time’ button.  This will save the entry so you
+        can display it in the calendar window.
+    </string>
+    <string name="help_textview_update_0_text">Updating entries:</string>
+    <string name="help_textview_update_1_text">
+        To update an entry you have already entered, follow the instructions above for entering hours, and
+        the entry will overwrite the old one.
+    </string>
+    <string name="help_textview_display_0_text">Displaying entrys:</string>
+    <string name="help_textview_display_1_text">
+        To display your entries, navigate to the Calendar window. You will see two calendars displayed; one
+        called ‘Start Date’, the other ‘End Date’. Here, choose the date range you would like displayed. All
+        the dates between the ‘Start Date’ and ‘End Date’ will be displayed. Once complete, you will want to
+        scroll down and click ‘Calculate’. The relevant data will be displayed below.
+    </string>
+
+
+</resources>

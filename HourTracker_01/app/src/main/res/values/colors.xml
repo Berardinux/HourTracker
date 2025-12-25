@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- <color name="berardinux_green_0">#2f4126</color> -->
+    <color name="berardinux_green_0">#2f4126</color>
+    <color name="berardinux_green_1">#1f2a1a</color>
+    <color name="background_color">#1e1e1e</color>
+</resources>

@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NavigationDrawer" parent="Theme.Material3.Light.NoActionBar">
+        <item name="navigationViewStyle">@style/Widget.CustomNavigationView</item>
+        <item name="colorPrimary">@color/berardinux_green_0</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/berardinux_green_1</item>
+        <item name="android:colorBackground">@color/background_color</item>
+
+        <item name="android:textColor">@color/white</item>
+        <item name="editTextColor">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="hintTextColor">@color/white</item>
+    </style>
+
+    <style name="CalendarDateText" parent="android:TextAppearance.Material">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="CalendarWeekdayText" parent="android:TextAppearance.Material.Small">
+        <item name="android:textColor">#B0FFFFFF</item>
+    </style>
+
+    <style name="Widget.CustomNavigationView" parent="Widget.Material3.NavigationView">
+        <item name="android:choiceMode">singleChoice</item>
+    </style>
+</resources>
